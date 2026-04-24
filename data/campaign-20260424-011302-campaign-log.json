@@ -1,0 +1,49 @@
+{
+  "campaign_id": "campaign-20260424-011302",
+  "blog_title": "Revolutionizing Creative Workflow with AI Automation",
+  "send_date": "2026-04-24T01:13:04.982779",
+  "sends": [
+    {
+      "email": "sarah@brightcreative.com",
+      "persona": "agency_owner",
+      "subject_line": "Boost ROI",
+      "send_status": "simulated_sent",
+      "send_date": "2026-04-24T01:13:04.982801"
+    },
+    {
+      "email": "marcus@brightcreative.com",
+      "persona": "agency_owner",
+      "subject_line": "Boost ROI",
+      "send_status": "simulated_sent",
+      "send_date": "2026-04-24T01:13:04.982807"
+    },
+    {
+      "email": "priya@freelance.com",
+      "persona": "freelance_designer",
+      "subject_line": "Boost Prod",
+      "send_status": "simulated_sent",
+      "send_date": "2026-04-24T01:13:04.982811"
+    },
+    {
+      "email": "jake@freelance.com",
+      "persona": "freelance_designer",
+      "subject_line": "Boost Prod",
+      "send_status": "simulated_sent",
+      "send_date": "2026-04-24T01:13:04.982814"
+    },
+    {
+      "email": "nina@techcorp.com",
+      "persona": "marketing_manager",
+      "subject_line": "AI Workflow Automation",
+      "send_status": "simulated_sent",
+      "send_date": "2026-04-24T01:13:04.982817"
+    },
+    {
+      "email": "david@techcorp.com",
+      "persona": "marketing_manager",
+      "subject_line": "AI Workflow Automation",
+      "send_status": "simulated_sent",
+      "send_date": "2026-04-24T01:13:04.982820"
+    }
+  ]
+}

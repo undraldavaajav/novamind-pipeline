@@ -1,0 +1,1 @@
+import requests, os; from dotenv import load_dotenv; load_dotenv(); r = requests.get('https://api.hubapi.com/crm/v3/objects/contacts', headers={'Authorization': 'Bearer ' + os.environ.get('HUBSPOT_API_KEY',''), 'Content-Type': 'application/json'}); print(r.status_code, r.text[:200])

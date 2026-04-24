@@ -1,0 +1,36 @@
+{
+  "campaign_id": "campaign-20260424-011345",
+  "recorded_at": "2026-04-24T01:13:47.417046",
+  "metrics": {
+    "agency_owner": {
+      "persona": "agency_owner",
+      "sends": 2,
+      "opens": 1,
+      "clicks": 0,
+      "unsubscribes": 0,
+      "open_rate": 0.406,
+      "click_rate": 0.155,
+      "unsub_rate": 0.0092
+    },
+    "freelance_designer": {
+      "persona": "freelance_designer",
+      "sends": 2,
+      "opens": 1,
+      "clicks": 0,
+      "unsubscribes": 0,
+      "open_rate": 0.37,
+      "click_rate": 0.138,
+      "unsub_rate": 0.0164
+    },
+    "marketing_manager": {
+      "persona": "marketing_manager",
+      "sends": 2,
+      "opens": 1,
+      "clicks": 0,
+      "unsubscribes": 0,
+      "open_rate": 0.507,
+      "click_rate": 0.195,
+      "unsub_rate": 0.0036
+    }
+  }
+}
