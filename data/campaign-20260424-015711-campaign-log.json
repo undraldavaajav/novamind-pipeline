@@ -1,49 +1,49 @@
 {
-  "campaign_id": "campaign-20260424-005109",
-  "blog_title": "Revolutionizing Creative Workflows with AI Automation",
-  "send_date": "2026-04-24T00:51:10.702505",
+  "campaign_id": "campaign-20260424-015711",
+  "blog_title": "Revolutionizing Creativity: How AI is Redefining the 9-5 Workflow",
+  "send_date": "2026-04-24T01:57:13.245803",
   "sends": [
     {
       "email": "sarah@brightcreative.com",
       "persona": "agency_owner",
       "subject_line": "Boost ROI",
       "send_status": "simulated_sent",
-      "send_date": "2026-04-24T00:51:10.702529"
+      "send_date": "2026-04-24T01:57:13.245836"
     },
     {
       "email": "marcus@brightcreative.com",
       "persona": "agency_owner",
       "subject_line": "Boost ROI",
       "send_status": "simulated_sent",
-      "send_date": "2026-04-24T00:51:10.702537"
+      "send_date": "2026-04-24T01:57:13.245847"
     },
     {
       "email": "priya@freelance.com",
       "persona": "freelance_designer",
-      "subject_line": "Boost Creativity",
+      "subject_line": "Boost Your Design Workflow",
       "send_status": "simulated_sent",
-      "send_date": "2026-04-24T00:51:10.702543"
+      "send_date": "2026-04-24T01:57:13.245857"
     },
     {
       "email": "jake@freelance.com",
       "persona": "freelance_designer",
-      "subject_line": "Boost Creativity",
+      "subject_line": "Boost Your Design Workflow",
       "send_status": "simulated_sent",
-      "send_date": "2026-04-24T00:51:10.702547"
+      "send_date": "2026-04-24T01:57:13.245865"
     },
     {
       "email": "nina@techcorp.com",
       "persona": "marketing_manager",
-      "subject_line": "AI Automation",
+      "subject_line": "AI Revives 9-5",
       "send_status": "simulated_sent",
-      "send_date": "2026-04-24T00:51:10.702552"
+      "send_date": "2026-04-24T01:57:13.245872"
     },
     {
       "email": "david@techcorp.com",
       "persona": "marketing_manager",
-      "subject_line": "AI Automation",
+      "subject_line": "AI Revives 9-5",
       "send_status": "simulated_sent",
-      "send_date": "2026-04-24T00:51:10.702555"
+      "send_date": "2026-04-24T01:57:13.245878"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "campaign_id": "campaign-20260424-011302",
-  "recorded_at": "2026-04-24T01:13:04.983610",
+  "campaign_id": "campaign-20260424-015711",
+  "recorded_at": "2026-04-24T01:57:13.247183",
   "metrics": {
     "agency_owner": {
       "persona": "agency_owner",
@@ -8,9 +8,9 @@
       "opens": 1,
       "clicks": 0,
       "unsubscribes": 0,
-      "open_rate": 0.412,
-      "click_rate": 0.163,
-      "unsub_rate": 0.0104
+      "open_rate": 0.443,
+      "click_rate": 0.208,
+      "unsub_rate": 0.0088
     },
     "freelance_designer": {
       "persona": "freelance_designer",
@@ -18,9 +18,9 @@
       "opens": 1,
       "clicks": 0,
       "unsubscribes": 0,
-      "open_rate": 0.425,
-      "click_rate": 0.154,
-      "unsub_rate": 0.0197
+      "open_rate": 0.362,
+      "click_rate": 0.165,
+      "unsub_rate": 0.019
     },
     "marketing_manager": {
       "persona": "marketing_manager",
@@ -28,9 +28,9 @@
       "opens": 1,
       "clicks": 0,
       "unsubscribes": 0,
-      "open_rate": 0.471,
-      "click_rate": 0.23,
-      "unsub_rate": 0.0027
+      "open_rate": 0.48,
+      "click_rate": 0.196,
+      "unsub_rate": 0.0088
     }
   }
 }
