@@ -24,7 +24,7 @@ An automated marketing content pipeline that generates, distributes, and analyze
 2. Create venv: python3 -m venv venv && source venv/bin/activate
 3. Install: pip install groq requests python-dotenv
 4. Create .env with GROQ_API_KEY and HUBSPOT_API_KEY
-5. Run: python3 main.py "AI tools for creative agencies"
+5. Run: python3 main.py "your topic"
 
 ## Assumptions
 - Engagement metrics are simulated around realistic baselines
